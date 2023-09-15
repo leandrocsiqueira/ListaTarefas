@@ -1,12 +1,10 @@
 # Lista de Tarefas
 
-### Descrição
-
-Projeto de lista de tarefas simples - sem preservação do estado dos dados na aplicação - com [Angular](https://angular.io) e [Angular Material](https://material.angular.io/).
-
 ![Application screenshot](./src/assets/screenshot.png)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+Nesse projeto, criei uma lista de tarefas simples usando [Angular](https://angular.io) e [Angular Material](https://material.angular.io/) - sem persistência de dados.
+
+Este projeto foi gerado com a versão 15.0.4 do [Angular CLI](https://github.com/angular/angular-cli).
 
 ## Development server
 
